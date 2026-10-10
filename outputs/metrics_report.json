@@ -1,0 +1,20 @@
+{
+    "Ridge_Regression":{
+        "RMSE":6.84,
+        "MAE":5.465,
+        "MAPE_percent":3.095,
+        "R2_Score":0.9786
+    },
+    "Random_Forest":{
+        "RMSE":7.236,
+        "MAE":5.765,
+        "MAPE_percent":3.253,
+        "R2_Score":0.9761
+    },
+    "Hist_Gradient_Boosting":{
+        "RMSE":7.272,
+        "MAE":5.761,
+        "MAPE_percent":3.25,
+        "R2_Score":0.9758
+    }
+}

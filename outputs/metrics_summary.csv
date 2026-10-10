@@ -1,0 +1,4 @@
+Model,RMSE,MAE,MAPE_percent,R2_Score
+Ridge_Regression,6.84,5.465,3.095,0.9786
+Random_Forest,7.236,5.765,3.253,0.9761
+Hist_Gradient_Boosting,7.272,5.761,3.25,0.9758

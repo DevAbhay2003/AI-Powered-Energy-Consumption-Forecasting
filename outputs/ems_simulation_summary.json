@@ -1,0 +1,15 @@
+{
+    "simulation_horizon_hours": 48,
+    "peak_threshold_kwh": 211.28,
+    "unmanaged_peak_load_kwh": 252.59,
+    "managed_peak_load_kwh": 252.59,
+    "peak_shaved_kw": 0.0,
+    "total_baseline_cost_usd": 2178.21,
+    "total_optimized_cost_usd": 2161.6,
+    "volumetric_energy_savings_usd": 16.61,
+    "demand_charge_savings_usd": 0.0,
+    "net_total_cost_savings_usd": 16.61,
+    "cost_savings_percentage": 0.28,
+    "peak_energy_dispatched_bess_kwh": 43.71,
+    "co2_emissions_avoided_kg": 18.36
+}
